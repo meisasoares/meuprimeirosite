@@ -1,0 +1,41 @@
+   body {
+        background-color: #e6f3f9;
+        color: black;
+        }
+
+        a {
+         background-color: #ffb3c6; /* pink */
+         border: none;
+         color: white;
+         padding: 20px 16px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 16px;
+       }
+
+        p {
+              text-align: center;
+        }
+
+       #imagem_principal {
+          width:28% ;
+          height:300px ;
+          margin-left:34% ;
+          margin-right:30% ;
+          border-radius:20% ;
+       }
+
+      strong {
+          color: rgb(0, 0, 0);
+      }
+
+      /*aqui*/
+      div{
+         margin-left:38% ;
+         margin-right:38% ;
+      }
+
+      .itens {
+         color:black ;
+      }
